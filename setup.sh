@@ -7,7 +7,13 @@
 
 
 # Setup go/gvm
-
+# install gvm
+# gvm install go1.4
+# gvm use go1.4
+# setup gvm pkgenv
+# setup gvm pkgset
+# setup work dir ???
+# setup ~/go/src ~/go/bin ~/go/pkg
 
 # Setup .aliases
 

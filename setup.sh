@@ -41,6 +41,16 @@ function install_xcode_tools
   fi
 }
 
+# Change to gvm
+function install_node
+{
+  if ! type node > /dev/null 2>&1; then
+    echo "Install node here"
+  else
+    echo "node is already installed"
+  fi
+}
+
 ##########
 #  Main  #
 ##########

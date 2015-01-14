@@ -58,6 +58,7 @@ function install_node
 function main
 {
   install_xcode_tools
+  install_node
   echo "Finished"
 }
 
